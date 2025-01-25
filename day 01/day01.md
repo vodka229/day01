@@ -19,6 +19,7 @@ FROM person
 ORDER BY object_id, object_name;
 ```
 output:
+
 ![](/img/1.png)
 
 #### Exercise 01
